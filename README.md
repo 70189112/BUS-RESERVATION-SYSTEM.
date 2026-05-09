@@ -1,6 +1,5 @@
-// # BUS-RESERVATION-SYSTEM.
-// "Bus reservation system description : It shows available seats, Book seat, Cancel booking and Display seat status."
- #include <iostream>
+
+ #include<iostream>
 using namespace std;
 
 // ---------------- CONSTANTS ----------------
